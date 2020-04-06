@@ -1,10 +1,10 @@
 # Data-Warehousing-Business-Intelligence
-Data Warehouse and Business Intelligence for Contoso Retail (ETL, Dimensional Modeling, Power BI)
+Data Warehouse and Business Intelligence for Contoso Retail (ETL, Dimensional Modeling, Power BI, Tableau)
 
 ## Objective
 - Developed Multi-Dimensional data model (STAR Schema) and enhanced it to meet growing requirements. 
 - Created a centralized data warehouse, pipelining retail data from diverse data sources using Talend Implemented Slowly Changing         Dimensions, Rejection codes, and Performance tuning on a dataset with 48 million rows. 
-- Built interactive dashboards to convey stories of retail sales and customer segmentation using QlikSense and PowerBI.
+- Built interactive dashboards to convey stories of retail sales and customer segmentation using Tableau and PowerBI.
 
 ## Overview
 This project involves a retail company that sells a variety of products to people and to businesses across a variety of sales channels.
@@ -51,7 +51,7 @@ Create BI applications that enable analysis of business performance
 - Reject Codes are used to catch bad data,missing values or invalid data present in the facts rejects
 - Reject Reasons help you understand the bad data in detail
 - Handled null values using Relation.ISNULL function and applied code 99 if nulls are found
-- Refer Error handling document for more details
+
 ![image](https://user-images.githubusercontent.com/47194856/78525513-61a90f00-77a5-11ea-93aa-b8d5f61ce4c3.png)
 
 ### Currency Conversion
