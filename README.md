@@ -85,6 +85,13 @@ Create BI applications that enable analysis of business performance
 
 ![image](https://user-images.githubusercontent.com/47194856/78524458-032e6180-77a2-11ea-8c5a-1070b72ff39a.png)
 
+## Authors
+Uthsav Shetty
+
+Sheetal Shekar
+
+Praful Badami
+
 
 
 
