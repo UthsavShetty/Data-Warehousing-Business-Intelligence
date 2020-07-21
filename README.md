@@ -87,7 +87,7 @@ Create BI applications that enable analysis of business performance
 
 ## Authors
 Uthsav Shetty
-Swamy Mallappa
+
 Sheetal Shekar
 
 Praful Badami
